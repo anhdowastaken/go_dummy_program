@@ -1,0 +1,6 @@
+[submodule "github.com/dq2nd/go_first_dummy_lib"]
+	path = src/github.com/dq2nd/go_first_dummy_lib
+	url = git@github.com:dq2nd/go_first_dummy_lib
+[submodule "github.com/dq2nd/go_second_dummy_lib"]
+	path = src/github.com/dq2nd/go_second_dummy_lib
+	url = git@github.com:dq2nd/go_second_dummy_lib
